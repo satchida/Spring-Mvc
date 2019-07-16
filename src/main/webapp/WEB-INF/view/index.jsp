@@ -4,7 +4,6 @@
 
 <html>
 <body>
-<h2>Hello World!</h2>
-<p>Hi ${name}<p>
+<h1><p>${name}<p></h1>
 </body>
 </html>

@@ -11,7 +11,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class UserController {
 
-    User user=new User("Satchida");
+    User user=new User("Satchidananda, Welcome to Stackroute");
    @RequestMapping("/")
     public ModelAndView welcome() {
 
